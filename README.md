@@ -1,2 +1,3 @@
-# Hello, world!
-![Xrondev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xrondev&hide=prs)
+# Hi!
+
+<div align=center><img src="https://github-readme-stats.vercel.app/api?username=Xrondev"/></div>
