@@ -13,6 +13,7 @@ I have a Blog website, but it is still *under construction🚧*:[Xrondev's Lab](
 <div><img src="https://github-readme-stats.vercel.app/api?username=Xrondev&count_private=true" height="200px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xrondev" height="200px"/></div>
 </div>
 <div align="center"></div>
+## My last 7 days status🧐
 <!--START_SECTION:waka-->
 
 ```txt
