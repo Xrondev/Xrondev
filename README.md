@@ -20,7 +20,7 @@ I have a Blog website, but it is still *under construction🚧*:[Xrondev's Lab](
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 July 2024 - To: 14 July 2024
+From: 08 July 2024 - To: 15 July 2024
 
 Total Time: 14 hrs 57 mins
 
