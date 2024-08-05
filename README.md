@@ -20,11 +20,15 @@ I have a Blog website, but it is still *under construction🚧*:[Xrondev's Lab](
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 July 2024 - To: 03 August 2024
+From: 28 July 2024 - To: 04 August 2024
 
-Total Time: 0 secs
+Total Time: 5 hrs 47 mins
 
-No activity tracked
+Vue.js           4 hrs 37 mins   ████████████████████░░░░░   79.85 %
+TypeScript       36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+CSS              11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+HTML             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+GitIgnore file   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
