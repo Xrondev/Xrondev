@@ -6,7 +6,7 @@ I'm still improving my skill stack in Backend with `Golang`, while I am able to 
 Till now, most of my work has been completed using `Python`, I used it for web crawlers (spiders), Machine Learning tasks, or even building backends for some services.
 
 -------
-Contact me at xrshawn@outlook.com (ENG/CHN), or post an issue if you have any problem with my code!😊  
+Post an issue if you have any problem with my code!😊  
 I have a Blog website, but it is still *under construction🚧*. I am still trying to move all my notes to this site and get familiar with the Hugo. You are welcome to leave a comment using the in-site Giscus system.  
 
 
