@@ -20,7 +20,7 @@ I have a Blog website, but it is still *under construction🚧*. I am still tryi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2024 - To: 17 October 2024
+From: 11 October 2024 - To: 18 October 2024
 
 Total Time: 0 secs
 
