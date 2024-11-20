@@ -20,11 +20,15 @@ I have a Blog website, but it is still *under construction🚧*. I am still tryi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 November 2024 - To: 18 November 2024
+From: 12 November 2024 - To: 19 November 2024
 
-Total Time: 0 secs
+Total Time: 56 mins
 
-No activity tracked
+Vue.js       31 mins         ██████████████░░░░░░░░░░░   56.02 %
+TypeScript   11 mins         █████░░░░░░░░░░░░░░░░░░░░   20.36 %
+CSS          6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
+Markdown     6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
