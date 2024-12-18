@@ -20,11 +20,11 @@ I have a Blog website, but it is still *under construction🚧*. I am still tryi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 December 2024 - To: 16 December 2024
+From: 10 December 2024 - To: 17 December 2024
 
-Total Time: 10 mins
+Total Time: 0 secs
 
-Jupyter   10 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
