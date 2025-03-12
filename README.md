@@ -20,11 +20,12 @@ I have a Blog website, but it is still *under construction🚧*. I am still tryi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 March 2025 - To: 10 March 2025
+From: 04 March 2025 - To: 11 March 2025
 
-Total Time: 0 secs
+Total Time: 31 mins
 
-Other   0 secs          █████████████████████████   100.00 %
+Other    1 hr 37 mins    ███████████████████░░░░░░   75.37 %
+Python   31 mins         ██████░░░░░░░░░░░░░░░░░░░   24.63 %
 ```
 
 <!--END_SECTION:waka-->
