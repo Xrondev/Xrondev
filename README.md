@@ -11,15 +11,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2025 - To: 30 April 2025
+From: 24 April 2025 - To: 01 May 2025
 
-Total Time: 10 hrs 52 mins
+Total Time: 7 hrs 53 mins
 
-Other        24 hrs 28 mins  █████████████████▒░░░░░░░   69.22 %
-Python       4 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
-TypeScript   2 hrs 43 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
-Go           1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-HTML         51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Other        21 hrs 32 mins  ██████████████████▒░░░░░░   73.17 %
+Python       4 hrs 54 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
+HTML         1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+Bash         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+JSON         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
