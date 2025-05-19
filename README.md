@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 May 2025 - To: 17 May 2025
+From: 11 May 2025 - To: 18 May 2025
 
 Total Time: 2 hrs 6 mins
 
-Other        13 hrs 43 mins  █████████████████████▓░░░   86.69 %
-Python       1 hr 39 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-Bash         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Other        13 hrs 2 mins   █████████████████████▓░░░   86.10 %
+Python       1 hr 39 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
+Bash         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 Public Key   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
