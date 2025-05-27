@@ -11,14 +11,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 May 2025 - To: 25 May 2025
+From: 19 May 2025 - To: 26 May 2025
 
-Total Time: 27 mins
+Total Time: 14 mins
 
-Other        20 hrs 44 mins  ████████████████████████▒   97.87 %
-TypeScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Python       8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Public Key   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Other        14 hrs 59 mins  ████████████████████████▓   98.46 %
+TypeScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
