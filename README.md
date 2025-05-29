@@ -11,12 +11,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 May 2025 - To: 27 May 2025
+From: 21 May 2025 - To: 28 May 2025
 
-Total Time: 14 mins
+Total Time: 8 mins
 
-Other        8 hrs 26 mins   ████████████████████████▒   97.29 %
-TypeScript   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Other        4 hrs 35 mins   ████████████████████████▒   96.95 %
+TypeScript   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
 ```
 
 <!--END_SECTION:waka-->
