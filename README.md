@@ -11,12 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2025 - To: 14 June 2025
+From: 08 June 2025 - To: 15 June 2025
 
-Total Time: 27 mins
+Total Time: 42 mins
 
-Docker   27 mins         ████████████████████████░   96.39 %
-Other    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+Docker   27 mins         ████████████████░░░░░░░░░   63.46 %
+JSON     14 mins         ████████▓░░░░░░░░░░░░░░░░   34.16 %
+Other    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 ```
 
 <!--END_SECTION:waka-->
