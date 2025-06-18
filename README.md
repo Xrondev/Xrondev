@@ -11,13 +11,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2025 - To: 16 June 2025
+From: 10 June 2025 - To: 17 June 2025
 
-Total Time: 42 mins
+Total Time: 2 hrs 53 mins
 
-Docker   27 mins         ████████████████░░░░░░░░░   63.46 %
-JSON     14 mins         ████████▓░░░░░░░░░░░░░░░░   34.16 %
-Other    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+PowerShell   1 hr 42 mins    ██████████████▓░░░░░░░░░░   58.71 %
+Docker       27 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.89 %
+Bash         27 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
+JSON         14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
