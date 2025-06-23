@@ -11,15 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2025 - To: 21 June 2025
+From: 15 June 2025 - To: 22 June 2025
 
-Total Time: 2 hrs 25 mins
+Total Time: 2 hrs 10 mins
 
-PowerShell   1 hr 42 mins    █████████████████▓░░░░░░░   70.30 %
-Bash         27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.73 %
-JSON         14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+PowerShell   1 hr 42 mins    ███████████████████▓░░░░░   78.32 %
+Bash         27 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
