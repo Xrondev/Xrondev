@@ -11,11 +11,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 June 2025 - To: 29 June 2025
+From: 23 June 2025 - To: 30 June 2025
 
-Total Time: 0 secs
+Total Time: 3 hrs 19 mins
 
-Other   13 mins         █████████████████████████   100.00 %
+Python       2 hrs 55 mins   ████████████████████░░░░░   80.00 %
+Other        20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+TOML         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Markdown     9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->
