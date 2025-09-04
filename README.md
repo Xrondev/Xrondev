@@ -11,13 +11,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2025 - To: 02 September 2025
+From: 27 August 2025 - To: 03 September 2025
 
 Total Time: 12 mins
 
-Other    13 mins         █████████████░░░░░░░░░░░░   51.86 %
-YAML     12 mins         ████████████░░░░░░░░░░░░░   47.70 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+YAML     12 mins         ████████████████████████▓   99.09 %
+Python   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
