@@ -11,15 +11,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2025 - To: 11 September 2025
+From: 05 September 2025 - To: 12 September 2025
 
-Total Time: 20 hrs 4 mins
+Total Time: 20 hrs 12 mins
 
-Python     16 hrs 9 mins   ████████████████████░░░░░   80.29 %
-HTML       1 hr 51 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-YAML       1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-CSV        21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-Docker     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Python     16 hrs 17 mins  ████████████████████░░░░░   80.43 %
+HTML       1 hr 51 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+YAML       1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+CSV        21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Docker     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 
 <!--END_SECTION:waka-->
