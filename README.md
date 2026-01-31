@@ -11,15 +11,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 January 2026 - To: 29 January 2026
+From: 23 January 2026 - To: 30 January 2026
 
-Total Time: 21 hrs 59 mins
+Total Time: 19 hrs 16 mins
 
-Python       10 hrs 37 mins  ████████████░░░░░░░░░░░░░   48.32 %
-YAML         6 hrs 34 mins   ███████▒░░░░░░░░░░░░░░░░░   29.86 %
-Docker       2 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
-JavaScript   1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
-Bash         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Python       10 hrs 17 mins  █████████████▒░░░░░░░░░░░   53.41 %
+YAML         6 hrs 26 mins   ████████▒░░░░░░░░░░░░░░░░   33.44 %
+JavaScript   1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+Docker       30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Bash         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 <!--END_SECTION:waka-->
